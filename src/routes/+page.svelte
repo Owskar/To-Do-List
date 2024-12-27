@@ -82,6 +82,7 @@
               on:click={() => enableEdit(index)}>
               Edit
             </button>
+            
             <button 
               class="bg-purple-800 py-2 px-4 rounded-lg text-cyan-50 hover:bg-purple-600 transition-colors duration-200"
               on:click={() => deleteTodo(index)}>
